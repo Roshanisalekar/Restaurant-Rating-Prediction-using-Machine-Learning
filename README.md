@@ -106,4 +106,6 @@ The Decision Tree Regression model achieved an **R² Score of approximately 0.95
 ## Internship
 
 **Data Science Internship – Cognifyz Technologies**
+<img width="1920" height="1080" alt="start " src="https://github.com/user-attachments/assets/6276b2e9-305b-4902-ac3d-5e9f057645e4" />
+
 <img width="1920" height="1080" alt="result" src="https://github.com/user-attachments/assets/87a5ae22-b4d1-4ac4-93f3-faf6437f56bf" />
